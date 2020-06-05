@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-04T16:04:31 AEST" name="Default suite" finished-at="2020-06-04T16:04:35 AEST" duration-ms="3627">
+    <groups>
+    </groups>
+    <test started-at="2020-06-04T16:04:31 AEST" name="Default test" finished-at="2020-06-04T16:04:35 AEST" duration-ms="3627">
+      <class name="TestPostCall_Validation_package.TestPostCall_Validation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPostCall_Validation_package.TestPostCall_Validation@13c10b87]" started-at="2020-06-04T16:04:32 AEST" name="setUp" finished-at="2020-06-04T16:04:32 AEST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestPostCall_WithValidation()[pri:0, instance:TestPostCall_Validation_package.TestPostCall_Validation@13c10b87]" started-at="2020-06-04T16:04:32 AEST" name="TestPostCall_WithValidation" finished-at="2020-06-04T16:04:35 AEST" duration-ms="3506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPostCall_WithValidation -->
+      </class> <!-- TestPostCall_Validation_package.TestPostCall_Validation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
